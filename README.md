@@ -33,6 +33,7 @@ This project explores the relationship between trader performance and Bitcoin ma
 - Sentiment alone does not guarantee profitability.
 
 
+
 ## Most Important Insights (Highlights)
 
 1. **Majority of Trades Occur During "Greed" Sentiment**  
@@ -44,11 +45,12 @@ This project explores the relationship between trader performance and Bitcoin ma
 3. **"Fear" Periods Reduce Activity and Profitability**  
    Trading still happens, but in a more cautious and less profitable manner.
 
-4. **Sentiment ≠ Profitability
+4. **Sentiment ≠ Profitability**  
    Emotional state influences behavior — not financial outcome.
 
-5. **Small Trades Dominate in Volume But Not in Value 
+5. **Small Trades Dominate in Volume But Not in Value**  
    High volume of low-impact trades may point to beginner or retail trading patterns.
+
 
 
 ### Visuals:
