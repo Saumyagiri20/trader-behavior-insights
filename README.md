@@ -25,10 +25,31 @@ This project explores the relationship between trader performance and Bitcoin ma
 
 ## Exploratory Data Analysis (EDA)
 
-### Key Insights:
-- Most trades occur during Greed periods
-- Large trades tend to be more profitable than small ones
-- Sentiment influences behavior, but does not guarantee profitability
+## Key Insights
+
+- Most trades occur during periods of market "Greed."
+- While small trades are more frequent, larger trades tend to yield higher profits.
+- Traders behave differently during "Fear" vs "Greed" phases, indicating sentiment-driven strategies.
+- Sentiment alone does not guarantee profitability.
+
+
+## Most Important Insights (Highlights)
+
+1. **Majority of Trades Occur During "Greed" Sentiment**  
+   Traders are more active during Greed phases, showing behavioral influence of positive sentiment.
+
+2. **Large Trades Are More Likely to Be Profitable**  
+   Bigger trades, though fewer, generate more consistent profits — often tied to experienced participants.
+
+3. **"Fear" Periods Reduce Activity and Profitability**  
+   Trading still happens, but in a more cautious and less profitable manner.
+
+4. **Sentiment ≠ Profitability
+   Emotional state influences behavior — not financial outcome.
+
+5. **Small Trades Dominate in Volume But Not in Value 
+   High volume of low-impact trades may point to beginner or retail trading patterns.
+
 
 ### Visuals:
 - Profitability by sentiment (Fear/Greed)
